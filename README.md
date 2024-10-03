@@ -1,4 +1,4 @@
-                                                                                  ************Breast Cancer Prediction************
+                                                                              **  Breast Cancer Prediction  **
 
 This project focuses on predicting breast cancer based on the Wisconsin Breast Cancer Dataset. It uses machine learning algorithms to classify tumors as malignant or benign based on various features.
 
